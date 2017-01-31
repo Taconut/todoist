@@ -26,8 +26,8 @@ const (
 	configName = ".todoist.config"
 	configType = "json"
 
-	ShortDateTimeFormat = "06/1/2(Mon) 15:04"
-	ShortDateFormat     = "06/1/2(Mon)"
+	ShortDateTimeFormat = "1/2/06(Mon) 3:04"
+	ShortDateFormat     = "1/2/06(Mon)"
 )
 
 func main() {
